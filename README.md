@@ -12,8 +12,6 @@
 - [Technical Overview](#technical-overview)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo](#demo)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## About
