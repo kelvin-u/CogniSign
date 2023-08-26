@@ -45,7 +45,7 @@ CogniSign's technical architecture revolves around the synergy of computer visio
 ## Contact
 Connect with me :wave:
 
-[LinkedIn](https://www.linkedin.com/in/kelvin-u/) | [Email](mailto:yukaiwenn@gmail.com) | [My Website](https://kelvinu.ca/)
+[LinkedIn](https://www.linkedin.com/in/kelvin-u/) | [Email](mailto:yukaiwenn@gmail.com) | [Website](https://kelvinu.ca/)
 
 ## License
 This project is licensed under the [MIT License](LICENSE)
