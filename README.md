@@ -11,6 +11,7 @@
 - [Key Features](#key-features)
 - [Technical Overview](#technical-overview)
 - [Installation](#installation)
+- [Contact](#contact)
 - [License](#license)
 
 ## About
@@ -40,6 +41,10 @@ CogniSign's technical architecture revolves around the synergy of computer visio
 2. Run the Python file ```main.py```
 
 3. Enjoy the experience of testing your skills in American Sign Language! (see how accurate it is :slightly_smiling_face:)
+
+## Contact
+Contact me:
+[My Website](https://kelvinu.ca/) | [LinkedIn](https://www.linkedin.com/in/kelvin-u/) | [Email](mailto:yukaiwenn@gmail.com)
 
 ## License
 This project is licensed under the [MIT License](LICENSE)
