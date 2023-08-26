@@ -42,7 +42,7 @@ CogniSign's technical architecture revolves around the synergy of computer visio
 3. Enjoy the experience of testing your skills in American Sign Language! (see how accurate it is :slightly_smiling_face:)
 
 ## License
-[All Rights Reserved](LICENSE)
+This project is licensed under the [MIT License](LICENSE)
 
 
 
