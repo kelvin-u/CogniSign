@@ -43,9 +43,9 @@ CogniSign's technical architecture revolves around the synergy of computer visio
 3. Enjoy the experience of testing your skills in American Sign Language! (see how accurate it is :slightly_smiling_face:)
 
 ## Contact
-Contact me: :wave:
+connect with me :wave:
 
-[My Website](https://kelvinu.ca/) | [LinkedIn](https://www.linkedin.com/in/kelvin-u/) | [Email](mailto:yukaiwenn@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kelvin-u/) | [Email](mailto:yukaiwenn@gmail.com) | [My Website](https://kelvinu.ca/)
 
 ## License
 This project is licensed under the [MIT License](LICENSE)
