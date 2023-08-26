@@ -11,7 +11,6 @@
 - [Key Features](#key-features)
 - [Technical Overview](#technical-overview)
 - [Installation](#installation)
-- [Usage](#usage)
 - [License](#license)
 
 ## About
@@ -37,3 +36,13 @@ CogniSign's technical architecture revolves around the synergy of computer visio
 
 1. Clone this repository:
    ```https://github.com/kelvin-u/CogniSign.git```
+
+2. Run the Python file ```main.py```
+
+3. Enjoy the experience of testing your skills in American Sign Language! (see how accurate it is :slightly_smiling_face:)
+
+## License
+[All Rights Reserved][LICENSE]
+
+
+
